@@ -4,12 +4,6 @@ MindScope is an AI-powered mental fitness app that helps users track emotions, j
 
 ---
 
-## 🚀 Live Demo  
-[Launch MindScope on Streamlit](https://your-streamlit-link.com)  
-*(Replace with your actual deployed link)*
-
----
-
 ## 🎯 Features
 
 - Emotion detection from text and voice using transformer models  
@@ -30,14 +24,13 @@ MindScope is an AI-powered mental fitness app that helps users track emotions, j
 - **Voice**: SpeechRecognition, PyAudio  
 - **Visualization**: Matplotlib, Pandas  
 - **Deployment**: Streamlit Cloud  
-- **Optional Auth**: Firebase (planned)
 
 ---
 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/MindScope-AI.git
-cd MindScope-AI
+git clone https://github.com/Teju-2007/MindScope.git
+cd MindScope
 pip install -r requirements.txt
 streamlit run app.py
